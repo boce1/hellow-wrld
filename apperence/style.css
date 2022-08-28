@@ -1,0 +1,23 @@
+*
+{
+    font-family: "Consolas";
+}
+
+body
+{
+    margin: 1px;
+    background-image: -webkit-linear-gradient(left, #41284e, #fa7979, #41284e);
+}
+
+a
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+
+div.space
+{
+    width: auto;
+    height: 50px;
+}
